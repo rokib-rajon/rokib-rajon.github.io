@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Rokib Rajon</title>
+    <link>https://rokib-rajon.github.io/en/publication/</link>
+      <atom:link href="https://rokib-rajon.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright>
+    <image>
+      <url>https://rokib-rajon.github.io/img/icon-512.png</url>
+      <title>Publications</title>
+      <link>https://rokib-rajon.github.io/en/publication/</link>
+    </image>
+    
+  </channel>
+</rss>

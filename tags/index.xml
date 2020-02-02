@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Rokib Rajon</title>
+    <link>https://rokib-rajon.github.io/tags/</link>
+      <atom:link href="https://rokib-rajon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://rokib-rajon.github.io/img/icon-512.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://rokib-rajon.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>অনুবাদ</title>
+      <link>https://rokib-rajon.github.io/tags/%E0%A6%85%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%A6/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/tags/%E0%A6%85%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>বিজ্ঞান</title>
+      <link>https://rokib-rajon.github.io/tags/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/tags/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://rokib-rajon.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

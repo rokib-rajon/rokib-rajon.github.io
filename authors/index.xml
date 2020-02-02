@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Rokib Rajon</title>
+    <link>https://rokib-rajon.github.io/authors/</link>
+      <atom:link href="https://rokib-rajon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Mon, 09 Dec 2019 15:54:00 +0600</lastBuildDate>
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <link>https://rokib-rajon.github.io/authors/admin/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;একজন সাহিত্যপ্রেমী মানুষ। বই পড়তে ভালোবাসি।&lt;/p&gt;
+&lt;p&gt;আগ্রহ বিভিন্ন বিষয়ে। সেসব বিষয়গুলোর প্রতি থেকে আগ্রহ থেকেই যা কিছু জেনেছি তা নিয়েই এই সাইটে লেখালেখি।&lt;/p&gt;
 </description>
     </item>
     

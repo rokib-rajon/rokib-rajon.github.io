@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Rokib Rajon</title>
+    <link>https://rokib-rajon.github.io/en/authors/</link>
+      <atom:link href="https://rokib-rajon.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://rokib-rajon.github.io/en/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/en/authors/admin/</guid>
+      <description>&lt;p&gt;With great interest for knowledge, I always try to
+enrich myself. I have great attraction for Animation, Opensource, Wikipedia and what not !&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

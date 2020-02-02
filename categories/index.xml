@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Academic</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | Rokib Rajon</title>
+    <link>https://rokib-rajon.github.io/categories/</link>
+      <atom:link href="https://rokib-rajon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Mon, 09 Dec 2019 15:54:00 +0600</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://rokib-rajon.github.io/img/icon-512.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://rokib-rajon.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://rokib-rajon.github.io/categories/demo/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://rokib-rajon.github.io/categories/politics/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>কবিতা</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>গল্প</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%97%E0%A6%B2%E0%A6%AA/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%97%E0%A6%B2%E0%A6%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ট্রিপ্স এন্ড ট্রিক্স</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%9F%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A6%B8-%E0%A6%8F%E0%A6%A8%E0%A6%A1-%E0%A6%9F%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B8/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%9F%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A6%B8-%E0%A6%8F%E0%A6%A8%E0%A6%A1-%E0%A6%9F%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>প্রবন্ধ</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A6%A7/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A6%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>বই পর্যালোচনা</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%87-%E0%A6%AA%E0%A6%B0%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%87-%E0%A6%AA%E0%A6%B0%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>লিনাক্স</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%B8/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>সমাজ</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C/</link>
+      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>অনুবাদ</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%85%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%A6/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%85%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>বিজ্ঞান</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

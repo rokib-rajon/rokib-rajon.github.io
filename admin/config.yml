@@ -1,0 +1,21 @@
+backend:
+ name: git-gateway
+ repo: rokib-rajon/rokib-rajon.github.io 
+ branch: master
+ site_domain: https://awesome-dubinsky-439d5d.netlify.com/
+
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'post'
+    label: 'Post'
+    folder: 'content/post'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
