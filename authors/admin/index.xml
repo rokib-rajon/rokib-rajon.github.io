@@ -5,112 +5,14 @@
     <link>https://rokib-rajon.github.io/authors/admin/</link>
       <atom:link href="https://rokib-rajon.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Rokib Rajon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Mon, 09 Dec 2019 15:54:00 +0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>My</title>
-      <link>https://rokib-rajon.github.io/post/gan/</link>
-      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
-      <guid>https://rokib-rajon.github.io/post/gan/</guid>
-      <description>&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;h2 id=&#34;আমদর-দশট-সবপনপর-সবর-সঙগ-ভব-কর&#34;&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/h2&gt;
-&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;h2 id=&#34;আমদর-দশট-সবপনপর-সবর-সঙগ-ভব-কর-1&#34;&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My</title>
-      <link>https://rokib-rajon.github.io/translation/my/</link>
-      <pubDate>Mon, 09 Dec 2019 15:54:00 +0600</pubDate>
-      <guid>https://rokib-rajon.github.io/translation/my/</guid>
-      <description>&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;h2 id=&#34;আমদর-দশট-সবপনপর-সবর-সঙগ-ভব-কর&#34;&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/h2&gt;
-&lt;p&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/p&gt;
-&lt;h2 id=&#34;আমদর-দশট-সবপনপর-সবর-সঙগ-ভব-কর-1&#34;&gt;আমাদের দেশটা স্বপ্নপুরী ,সবার সঙ্গে ভাব করি&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://rokib-rajon.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rokib-rajon.github.io/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
-Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Welcome to Academic!&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>আইনস্টাইন ছিলেন একজন অসম্ভব মেধাবী</title>
-      <link>https://rokib-rajon.github.io/translation/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%A8/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rokib-rajon.github.io/translation/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%A8/</guid>
-      <description>&lt;p&gt;আইনস্টাইন আমাদের পৃথিবীর অন্যতম সেরা বিজ্ঞানীদের মধ্যে একজন&lt;/p&gt;
-&lt;h2 id=&#34;জনম&#34;&gt;জন্ম&lt;/h2&gt;
-&lt;p&gt;বৃটেনে&lt;/p&gt;
-&lt;h2 id=&#34;বড়-ওঠ&#34;&gt;বেড়ে ওঠা&lt;/h2&gt;
-&lt;p&gt;সেখানেই তার বেড়ে ওঠা&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://rokib-rajon.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rokib-rajon.github.io/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+      <title>হুইলচেয়ারের মহাবিশ্ব পর্যটক</title>
+      <link>https://rokib-rajon.github.io/post/life-of-hawking/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://rokib-rajon.github.io/post/life-of-hawking/</guid>
+      <description>&lt;p&gt;ক্রিসমাসের ছুটিতে একুশ বছর বয়সী তরুণটি বাড়ি এল,পরিবারের সবার সাথে ছুটি কাটাবে বলে। কিন্তু ছেলেটার স্বাস্থ্যের অবস্থা খুব একটা ভাল না। অল্প চলা-ফেরা করলেই হাঁপিয়ে ওঠে। কথা অস্পষ্ট হয়ে যেতে শুরু করেছে। এমন অবস্থা দেখে পরিবারের সদস্যরা চিন্তায় পড়লেন। শেষমেশ তাকে ডাক্তারের কাছে পরীক্ষার জন্য নিয়ে যাওয়া হল। ২১ বছর বয়সে জীবনের সবচাইতে কঠিন সত্যটি জানতে পারলেন। ডাক্তাররা তাকে বললেন তার সম্ভাব্য আয়ু মাত্র আর দুইবছর। কিন্তু ডাক্তারদের সেই ভবিষ্যতবাণী মিথ্যা করে দিয়ে বেঁচে রইলেন আর অনেক কয়বছর। আর বেঁচে থেকে মহাবিশ্ব নিয়ে বিজ্ঞানের সীমানাকে আরও বিস্তৃত করে পৃথিবীর ইতিহাসে অবিস্মরণীয় হয়ে গেলেন।&lt;/p&gt;
+&lt;p&gt;বলছি পৃথিবী বিখ্যাত বিজ্ঞানী স্টিফেন হকিংএর কথা। আধুনিক কালের ইতিহাসে স্টিফেন হকিং এর নাম শোনেনি এমন কোন শিক্ষিত লোক বোধহয় পাওয়া যাবে না। হকিং এর জন্ম ইংল্যান্ডের অক্সফোর্ডে ৮ই জানুয়ারি ১৯৪২ সালে, গ্যালিলিওর মৃত্যুর ঠিক তিনশত বছর পরে। তার বাবা-মায়ের বাড়ি ছিল উত্তর লন্ডনে, কিন্তু দ্বিতীয় বিশ্বযুদ্ধের সময় বাচ্চা প্রতিপালনের জন্য লন্ডনের চাইতে অক্সফোর্ড অনেক বেশি নিরাপদ ছিল। সন্তানের ভবিষ্যৎ ভেবে সে কারণেই লন্ডন ছেড়ে তারা পাড়ি জমান অক্সফোর্ডে। পরে ফিরে আসেন লন্ডনে।&lt;/p&gt;
 
 
 
@@ -127,60 +29,150 @@ date: 2019-09-01
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;child.jpg&#34; data-caption=&#34;শিশুকালে হকিং&#34;&gt;
+&lt;img src=&#34;child.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    শিশুকালে হকিং
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;h2 id=&#34;শশব-ও-কশর&#34;&gt;শৈশব ও কৈশোর&lt;/h2&gt;
+&lt;p&gt;হকিং তার স্কুল যাওয়া শুরু করেন লন্ডনের হাইগেটের বায়রন হাউজ স্কুল দিয়ে।  তিনি পরবর্তী কালে তার পঠন সমস্যার জন্য এই স্কুলের শিখন পদ্ধতিকে দোষারোপ করেন। আট বছর বয়সে তাঁরা আবার চলে যান সেন্ট অ্যালবানস নামের ছোট্ট শহরে , উত্তর লন্ডন থেকে মাত্র ২০ কিলোমিটার দূরে। ওখানেই সেন্ট অ্যালবানস স্কুলে যান, এরপর অক্সফোর্ড ইউনিভার্সিটি কলেজ ভর্তি হন; যেখানে তাঁর বাবাও পড়াশোনা করেছিলেন। হকিং এর বাবা চেয়েছিলেন তার ছেলে প্রখ্যাত ওয়েস্টমিনিস্টার স্কুলে পড়ুক,কিন্তু শিক্ষাবৃত্তি পরীক্ষার দিন হঠাৎ করে অসুস্থ হয়ে পড়েন হকিং। সেইসময় ফিস দেবার মত আর্থিক অবস্থা ছিল না তার পরিবারের, ফলে ওয়েস্টমিনিস্টারে পড়া আর হয় না । সেন্ট আলবানসের স্কুলেই থেকে যেতেই হয়। সেন্ট আলবানস স্কুলে থাকার ফলে তার খুব কাছের কিছু বন্ধু তৈরি হয়ে যায়। তাদের সাথে মিলে নানাধরনের আতশবাজি , বিমান ও নৌকার মডেল বানাতেন। বন্ধুদের সাথে খ্রিস্টান ধর্ম এবং ইন্দ্রিয় বহির্ভূত নানা ধারণা নিয়ে দীর্ঘ আলোচনা করতেন ।
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;research.jpg&#34; data-caption=&#34;বন্ধুদের আইনস্টাইন !&#34;&gt;
+&lt;img src=&#34;research.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    বন্ধুদের আইনস্টাইন !
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+১৯৫৮ সালের দিকে তার গণিত শিক্ষক ডিক্রান তাহতার সহযোগিতায়; ঘড়ির বিভিন্ন অংশ, একটা পুরানো টেলিফোন সুইচবোর্ড এবং আরও কিছু পুরানো যন্ত্রাংশ কাজে লাগিয়ে বন্ধুদের সাথে একটা কম্পিউটার বানান। এধরনের কর্মকান্ডের জন্য স্কুলে তাকে আইনস্টাইন নামে ডাকা হত। কিন্তু শুরুর দিকে খুব একটা ভালমানের ছাত্র ছিলেন না তিনি। শিক্ষক তাহতার উৎসাহে বিজ্ঞানের বিষয়াবলীতে তার দক্ষতা সৃষ্টি হয়। এরপরেই সিদ্ধান্ত নেন গণিতে পড়ার। বাবা চাইতেন ছেলে চিকিৎসাবিদ্যা নিয়ে পড়ুক, কারণ গণিতে পড়াশোনা করে খুব কমই ক্ষেত্রেই পেশাগত পাওয়া সম্ভব। কিন্তু হকিং এর পছন্দ গণিত। কলেজে আবার গণিত নাই, তাই ভর্তি হলেন পদার্থবিদ্যায়। বয়স তখন সতের বছর। প্রথম ১৮ মাস খুব একটা ভাল কাটেনি একাকীত্ব আর  বিষণ্ণতার মধ্যে। একাডেমিক পড়াশোনাকে তার নিকট হাস্যকরভাবে সহজ মনে হত। তার পদার্থবিজ্ঞানের শিক্ষক রবার্ট বেরমান বলেছিলেন যে, কোন কিছু করা আসলে সম্ভব এটুকু জানলেই হকিং সেটা করে ফেলতেন, অন্যরা কিভাবে সেটা করেছে তা না দেখেই। স্নাতক জীবনের দ্বিতীয় ও তৃতীয় বছরে তার ভিতরে পরিবর্তন আসে। তিনিও অন্য ছেলেদের মত হয়ে ওঠার চেষ্টা করতে থাকেন। নিজেকে প্রাণবন্ত ,রসিক এবং জনপ্রিয় করে তোলেন এসময়। সায়েন্স ফিকশন এবং ধ্রুপদ সংগীতে তার আগ্রহ দেখা যায় এসময়ে। কলেজের বোট ক্লাবেও যোগ দেন , সেখানে তিনি নৌকাবাইচে প্রধান মাঝির ভূমিকা পালন করতেন। মাঝে মাঝে তার দলকে বিপদসংকুল পথে নিয়ে গিয়ে দুঃসাহসিকতারও পরিচয় দিতেন ।
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;boat.jpg&#34; data-caption=&#34;বাইয়া যাও রে মাঝি&#34;&gt;
+&lt;img src=&#34;boat.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    বাইয়া যাও রে মাঝি
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+হকিং এর হিসাব মতে এই তিন বছরে মাত্র ১,০০০ ঘণ্টা পড়াশোনা করেছেন। যা তার ফাইনাল পরীক্ষা দেওয়ার ক্ষেত্রে চ্যালেঞ্জের মুখোমুখি ফেলে দেয়। তাই বাস্তবিক জ্ঞান লাগে এমন প্রশ্ন এড়িয়ে গিয়ে শুধুমাত্র তত্ত্বীয় পদার্থের জ্ঞান লাগে এমন প্রশ্নের উত্তর দেন। এদিকে তার ক্যামব্রিজে কসমোলজি নিয়ে পড়ার ইচ্ছা, সেখানে ভর্তি হওয়ার পূর্ব শর্ত হল প্রথম শ্রেণী থাকা লাগবে। দুশ্চিন্তায় পরীক্ষার আগের রাতে খুব একটা ভাল করে ঘুমাতেও পারেননি তিনি। পরীক্ষার ফলাফল তখন প্রথম ও দ্বিতীয় শ্রেণীর মাঝে ঝুলন্ত অবস্থায়। তিনি এ বিষয়ে সচেতন ছিলেন যে শিক্ষকেরা তাকে অলস এবং বেয়াড়া ছাত্র ভাবে। মৌখিক পরীক্ষায় যখন তাকে জিজ্ঞেস করা হল, ভবিষ্যৎ নিয়ে কি পরিকল্পনা আছে তার। হকিং উত্তর দিলেন , যদি তাকে প্রথম শ্রেণী দেওয়া হয় তাহলে তিনি ক্যামব্রিজ বিশ্ববিদ্যালয়ে পড়তে যেতে পারবেন আর যদি দ্বিতীয় শ্রেণী দেওয়া হয় তাহলে এই কলেজেই তাকে থেকে যেতে হবে। তাই তিনি প্রথম শ্রেণীই আশা করেন। পরবর্তীতে ফলাফলে দেখা গেল তিনি তার আশাতীত ফলাফল করেছেন। তার শিক্ষক বেরমানের মতে সেদিনের পরীক্ষকেরা বুঝতে পেরেছিলেন অন্য ছাত্রদের তুলনায় অনেক বেশি বুদ্ধিমান এক ছাত্রের সাথে তারা কথা বলছেন।
+প্রথম শ্রেণী নিয়ে স্নাতক সম্মান শেষ করার পরে এক বন্ধুর সাথে ইরান ঘুরে আসেন। এরপর ১৯৬২ সালের অক্টোবরে তার ক্যামব্রিজ জীবনের শুরু হয়। ডক্টরাল ছাত্র হিসাবে প্রথম বছর খারাপ কাটে। শুরুতেই হতাশ হয়েছিলেন এই দেখে যে , ডেনিস উইলিয়াম শিয়ামারের তত্ত্বাবধানে ডক্টরেট করতে হবে। যিনি হলেন আধুনিক সৃষ্টিতত্ত্বের বা মহাবিশ্বতত্ত্বের প্রতিষ্ঠাতাদের একজন। তার উপরে বুঝতে পারলেন এতদিন গণিতে যা শিখেছেন সাধারণ আপেক্ষিকতার তত্ত্ব এবং সৃষ্টিতত্ত্বের জন্য তা যথেষ্ট নয়।  হতাশায় ভেঙে পড়লেন যখন তার মোটর নিউরন রোগটি ধরা পড়লো। জীবন নিয়ে তখন তার খুব সামান্যই আশা। ডাক্তাররা পড়াশোনা চালিয়ে যাওয়ার পরামর্শ দিলেন। কোন কিছু ছাড়া হাটতে অসমর্থ, কথাবার্তা অবোধগম্য আর মাত্র দুই বছর বেঁচে থাকবে ডাক্তারদের এই ভবিষ্যতবাণী মিথ্যা প্রমাণিত হল। ডেনিস উইলিয়ামের উৎসাহে আবার শুরু হল তার গবেষনা কর্ম। যে ফ্রেড হয়েলের ছাত্র না হতে পারায় তার মনে দুঃখ ছিল, ১৯৬৪ সালের জুনে সেই ফ্রেড হয়েল এবং তার ছাত্রের গবেষণা কর্ম নিয়ে প্রশ্ন তুলে মেধা এবং দুঃসাহসিকতার জন্য অন্যদের মাঝে পরিচিতি পেলেন।&lt;/p&gt;
+&lt;h2 id=&#34;পরম-এব-বয়&#34;&gt;প্রেম এবং বিয়ে&lt;/h2&gt;
+&lt;p&gt;এরমধ্যে পরিচয় হল বোনের বান্ধবী জেন ওয়াইল্ডের সাথে। ১৯৬৩ তে পরিচয় আর ১৯৬৫তে বিয়ে করেন। হকিং এর জীবনে জেন ওয়াইল্ড এক গুরুত্বপূর্ণ স্থান দখল করে আছেন।  পৃথিবীতে সবচাইতে দূর্বোধ্য কি, এই প্রশ্নের জবাবে দীর্ঘ সময় ধরে সংসার করা রসিক হকিং বলেছিলেন নারী ! পদার্থবিদ্যার জটিল সব তত্ত্ব যারকাছে ছেলেখেলা, যার সময় কেটেছে মহাবিশ্বকে বোঝার মধ্যে দিয়ে তিনি হার মেনেছেন নারীকে বুঝতে গিয়ে।
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;love.jpg&#34; data-caption=&#34;প্রথম স্ত্রীর সঙ্গে&#34;&gt;
+&lt;img src=&#34;love.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    প্রথম স্ত্রীর সঙ্গে
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;লখলখ&#34;&gt;লেখালেখি&lt;/h2&gt;
+&lt;p&gt;যে বইটি সর্বাধিক বিক্রিত বইয়ের তালিকায় অনেক দিন উপরের সারিতে ছিল সেই &amp;lsquo;কালের সংক্ষিপ্ত ইতিহাস&amp;rsquo; নামের বইটি লিখেছিলেন মেয়ের পিএইচডি গবেষণার ব্যয় যোগানোর জন্য। প্রকাশক তাকে আগেই বলে দিয়েছিলেন যে বইটি সাধারণ মানুষের উপযোগী হতে হবে। মহাবিশ্বের অতীত এবং বর্তমান সময়কে সাধারণের বোধগম্য করে তোলার দায়িত্ব নেন নিজের কাঁধে। একজন তাত্ত্বিক বিজ্ঞানী হয়েও খুব সহজ সরল করে বইটি লেখেন তিনি। যতদিনে বইটি লেখা শেষ হয়ে প্রকাশিত হল ,ততদিনে তার মেয়ের পিএইচডি সম্পূর্ণ হয়ে গেছে। প্রকাশের পরে সাড়া পড়ে গেল, পাঠকেরা লুফে নিল বইটি। ২৩৭ সপ্তাহ ধরে বইটি সর্বাধিক বিক্রিত বইয়ের তালিকায় ছিল। পৃথিবীর অধিকাংশ ভাষাতেই অনূদিত হয়েছে বইটি। এরপরে আরও বেশকয়েকটি বই প্রকাশ পেয়েছে। মেয়ে লুসির সাথে মিলে বাচ্চাদের জন্যও বই লিখেছেন বেশ কয়েকটি।&lt;/p&gt;
+&lt;h2 id=&#34;বজঞন-অবদন&#34;&gt;বিজ্ঞানে অবদান&lt;/h2&gt;
+&lt;p&gt;রজার পেনরোজের সাথে মিলে আইনস্টাইনের আপেক্ষিকতার তত্ত্বের উপর ভিত্তি করে গ্র্যাভিটেশনাল সিংগুলারিটির তত্ত্ব প্রমাণ করেন। এটি হকিং-পেনরোজ তত্ত্বও নামেও পরিচিত। এছাড়া কৃষ্ণ গহবর নিয়ে বিজ্ঞানীদের আগের ধারনা পাল্টিয়ে দিয়ে কৃষ্ণ গহবর থেকে বিকিরণ নির্গত হয় বলে তাত্ত্বিক অভিমত প্রদান করেন। যা হকিং বিকিরণ নামে পরিচিত। সারা বিশ্বব্যাপী বিজ্ঞানী হিসাবে একনামে পরিচিত হলেও তিনি কখনো নোবেল পুরষ্কারের জন্য মনোনীত হননি। কারণ বিজ্ঞানে নোবেল পুরষ্কার পাওয়ার পূর্বশর্ত হচ্ছে আবিষ্কারটি অবশ্যই পর্যবেক্ষণ দ্বারা নিশ্চিত হতে হবে। যা হকিং বিকিরণের ক্ষেত্রে এই মুহুর্তে সম্ভব নয়। সঙ্গী জিম হার্টলের সাথে মিলে হকিং এর অন্যতম বড় আবিষ্কার হচ্ছে সীমানাহীন মহাবিশ্ব তত্ত্ব। যেটি তিনি প্রকাশ করেন ১৯৮৩ সালে।&lt;/p&gt;
+&lt;h2 id=&#34;গণমধযম-হক&#34;&gt;গণমাধ্যমে হকিং&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cartoon.jpg&#34; data-caption=&#34;সিম্পসনে হকিং !&#34;&gt;
+&lt;img src=&#34;cartoon.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    সিম্পসনে হকিং !
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+গণমাধ্যমেও তার সরব উপস্থিতি লক্ষ্য করা যায়। মাঝে মধ্যেও তিনি তার বিভিন্ন অভিমত প্রকাশ করতেন। যা সারাবিশ্ব ব্যাপী ছড়িয়ে পড়ত তার প্রতি মানুষের প্রবল আগ্রহ থেকে। বিভিন্ন ডকুমেন্টারি, অতিথি হিসাবে টিভি অনুষ্ঠানেও তাকে দেখা গেছে অনেকবার। অভিনয় করেছেন দ্য বিগব্যাং, ফিউচারামাতে। তিনিই একমাত্র ব্যক্তি যিনি নিজ চরিত্রে অভিনয় করেছেন স্টারট্রেকঃ দ্য নেক্সট জেনারেশন পর্বে।  বিশ্ববিখ্যাত কমিক টিভি সিরিজ সিম্পসনে কন্ঠও দিয়েছেন বেশ কয়েকটি পর্বে। তার জীবনী নিয়ে হলিউডে নির্মিত হয় থিওরি অফ এভরিথিং নামের সিনেমা।&lt;/p&gt;
+&lt;h2 id=&#34;মতয&#34;&gt;মৃত্যু&lt;/h2&gt;
+&lt;p&gt;হকিং এর মৃত্যু সারাবিশ্বব্যাপী বিজ্ঞানপ্রেমী মানুষকে তো বটেই, সাধারণ মানুষকেও আন্দোলিত করেছে। আইনস্টাইনের জন্মের ঠিক একশ বছর পরে হকিং এর মৃত্যু হয় অর্থ্যাৎ ২০১৮ সালের ১৪ই মার্চ। হুইলচেয়ারে সারাটাজীবন বন্দি থেকেও এই মহাবিশ্বের আনাচে-কানাচে সম্পর্কে জ্ঞান তার চাইতে খুব বেশি জনের হয়নি। ভয়েস সিন্থেসাইজারের মাধ্যমে কথা বলা আর মুখাবয়বের সামান্য নাড়াচাড়া দিয়ে কম্পিউটারে টাইপ করে বিজ্ঞানের জগতকে সমৃদ্ধ করা এ মানুষটিকে ভুলবে না পৃথিবী।&lt;/p&gt;
 </description>
     </item>
     

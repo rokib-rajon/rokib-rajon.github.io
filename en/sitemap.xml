@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rokib-rajon.github.io/en/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/post/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rokib-rajon.github.io/en/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -33,68 +18,8 @@
   </url>
   
   <url>
-    <loc>https://rokib-rajon.github.io/en/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/post/writing-technical-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/post/writing-technical-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rokib-rajon.github.io/en/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rokib-rajon.github.io/en/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rokib-rajon.github.io/en/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/post/jupyter/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rokib-rajon.github.io/en/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -109,7 +34,7 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/en/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -123,38 +48,36 @@
   </url>
   
   <url>
-    <loc>https://rokib-rajon.github.io/en/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://rokib-rajon.github.io/en/authors/admin/</loc>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://rokib-rajon.github.io/tags/academic/"
+                href="https://rokib-rajon.github.io/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rokib-rajon.github.io/en/tags/academic/"
+                href="https://rokib-rajon.github.io/en/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>https://rokib-rajon.github.io/en/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://rokib-rajon.github.io/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://rokib-rajon.github.io/post/getting-started/"
+                href="https://rokib-rajon.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rokib-rajon.github.io/en/post/getting-started/"
+                href="https://rokib-rajon.github.io/en/authors/"
                 />
   </url>
   
   <url>
     <loc>https://rokib-rajon.github.io/en/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -168,32 +91,17 @@
   </url>
   
   <url>
-    <loc>https://rokib-rajon.github.io/en/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://rokib-rajon.github.io/en/post/</loc>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://rokib-rajon.github.io/categories/demo/"
+                href="https://rokib-rajon.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rokib-rajon.github.io/en/categories/demo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rokib-rajon.github.io/en/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/tags/"
+                href="https://rokib-rajon.github.io/en/post/"
                 />
   </url>
   
@@ -213,6 +121,7 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/en/publication/</loc>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -227,6 +136,7 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/en/talk/</loc>
+    <lastmod>2020-02-02T11:20:51+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -236,6 +146,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rokib-rajon.github.io/en/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rokib-rajon.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://rokib-rajon.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokib-rajon.github.io/en/tags/"
                 />
   </url>
   
