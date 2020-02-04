@@ -163,4 +163,18 @@
                 />
   </url>
   
+  <url>
+    <loc>https://rokib-rajon.github.io/en/true/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://rokib-rajon.github.io/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokib-rajon.github.io/en/true/"
+                />
+  </url>
+  
 </urlset>
