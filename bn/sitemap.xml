@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/authors/admin/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/authors/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,12 +34,12 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/categories/biography/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://rokib-rajon.github.io/categories/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,12 +69,12 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/categories/science/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://rokib-rajon.github.io/tags/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,17 +89,22 @@
   
   <url>
     <loc>https://rokib-rajon.github.io/tags/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</loc>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://rokib-rajon.github.io/tags/%E0%A6%B9%E0%A6%95%E0%A6%BF%E0%A6%82/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://rokib-rajon.github.io/post/life-of-hawking/</loc>
-    <lastmod>2020-02-02T17:53:58+06:00</lastmod>
+    <lastmod>2020-02-04T16:48:54+06:00</lastmod>
   </url>
   
   <url>
@@ -173,20 +178,6 @@
                 rel="alternate"
                 hreflang="bn"
                 href="https://rokib-rajon.github.io/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rokib-rajon.github.io/true/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokib-rajon.github.io/en/true/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://rokib-rajon.github.io/true/"
                 />
   </url>
   

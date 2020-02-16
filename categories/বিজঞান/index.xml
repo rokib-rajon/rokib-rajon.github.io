@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rokib Rajon</title>
-    <link>https://rokib-rajon.github.io/authors/admin/</link>
-      <atom:link href="https://rokib-rajon.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rokib Rajon</description>
+    <title>বিজ্ঞান | Rokib Rajon</title>
+    <link>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</link>
+      <atom:link href="https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>বিজ্ঞান</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rokib-rajon.github.io/img/icon-512.png</url>
-      <title>Rokib Rajon</title>
-      <link>https://rokib-rajon.github.io/authors/admin/</link>
+      <title>বিজ্ঞান</title>
+      <link>https://rokib-rajon.github.io/categories/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%9E%E0%A6%BE%E0%A6%A8/</link>
     </image>
     
     <item>

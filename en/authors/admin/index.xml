@@ -6,5 +6,11 @@
       <atom:link href="https://rokib-rajon.github.io/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Rokib Rajon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright>
+    <image>
+      <url>https://rokib-rajon.github.io/img/icon-512.png</url>
+      <title>Rokib Rajon</title>
+      <link>https://rokib-rajon.github.io/en/authors/admin/</link>
+    </image>
+    
   </channel>
 </rss>

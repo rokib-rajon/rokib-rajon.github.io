@@ -6,6 +6,12 @@
       <atom:link href="https://rokib-rajon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>bn-bd</language><copyright>© [Rokib Rajon](https://twitter.com/RokibRajon), 2020</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rokib-rajon.github.io/img/icon-512.png</url>
+      <title>Authors</title>
+      <link>https://rokib-rajon.github.io/authors/</link>
+    </image>
+    
     <item>
       <title></title>
       <link>https://rokib-rajon.github.io/authors/admin/</link>
